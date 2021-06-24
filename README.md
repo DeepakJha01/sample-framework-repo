@@ -1,2 +1,2 @@
 # sample-framework-repo
-Contains Django files
+This contains django framework
